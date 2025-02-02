@@ -17,6 +17,6 @@ public class Main {
         sim.aggiungiContatto(pers5);
         sim.aggiungiContatto(pers6);
         sim.visualizzaContatti();
-        System.out.println(sim.cercaContattoPerNome("Giann"));;
+        System.out.println(sim.cercaContattoPerNome("Giann"));
     }
 }
